@@ -1,0 +1,24 @@
+{
+  "name": "join-with-commas-and-and-before-the-last",
+  "version": "1.0.1",
+  "description": "Join items with commas and \"&\" before the last item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmanemran/join-with-commas-and-and-before-the-last.git"
+  },
+  "keywords": [
+    "Array",
+    "Array",
+    "manipulation"
+  ],
+  "author": "Emran <xmanemran@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmanemran/join-with-commas-and-and-before-the-last/issues"
+  },
+  "homepage": "https://github.com/xmanemran/join-with-commas-and-and-before-the-last#readme"
+}
