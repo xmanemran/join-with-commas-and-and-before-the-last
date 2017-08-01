@@ -1,6 +1,6 @@
 {
   "name": "join-with-commas-and-and-before-the-last",
-  "version": “1.0.3”,
+  "version": "1.0.3",
   "description": "Join items with commas and \"&\" before the last item",
   "main": "index.js",
   "scripts": {
