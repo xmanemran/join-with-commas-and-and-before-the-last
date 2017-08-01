@@ -14,7 +14,7 @@ separate(array, "and") // last item join with 'and'. Default is '&'
 
 ### Example
 ```
-let Separator import 'join-with-commas-and-and-before-the-last';
+var separate = require('join-with-commas-and-and-before-the-last').separate;
 
 Separator.separate(["Emran", "Rayhan", "Mahmud"]);   // output will be "Emran, Rayhan & Mahmud"
 
