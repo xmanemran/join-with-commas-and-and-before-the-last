@@ -1,9 +1,9 @@
 # Join items with commas and "&" before the last item
 
 ## Install
-
+```
 npm install join-with-commas-and-and-before-the-last --save
-
+```
 
 ### Method
 
