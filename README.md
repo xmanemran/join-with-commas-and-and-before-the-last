@@ -20,6 +20,8 @@ Separator.separate(["Emran", "Rayhan", "Mahmud"]);   // output will be "Emran, R
 
 Separator.separate(["Emran", "Rayhan"]);             // output will be "Emran & Rayhan"
 
+Separator.separate(["Emran", "Rayhan"], ',');             // output will be "Emran, Rayhan"
+
 Separator.separate(["Rayhan"]);                      // output will be "Rayhan"
 
 Separator.separate(["Emran", "Rayhan", "Mahmud"], 'and');   // output will be "Emran, Rayhan and Mahmud"
